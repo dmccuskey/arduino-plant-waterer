@@ -1,0 +1,4 @@
+{
+    "port": "/dev/cu.usbmodem1491",
+    "board": "arduino:avr:uno"
+}
